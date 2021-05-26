@@ -3,16 +3,11 @@
   padding: 0;
 }
 
-html {
-  background-color: #121010;
-}
-
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   text-align: center;
   margin: 1rem;
-  background-color: #121010;
-  color: #efefdf;
+  color: #121010;
 }
 
 h1 {
@@ -53,6 +48,5 @@ h6 {
 
 #tclogo {
   width: 100%;
-  max-width: 1080px;
-  margin-bottom: 1rem;
+  margin-bottom: 4rem;
 }
