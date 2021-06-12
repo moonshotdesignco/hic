@@ -1,17 +1,19 @@
 * {
   margin: 0;
   padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 html {
-  background-color: #121010;
+  background-color: white;
 }
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   text-align: center;
-  background-color: #121010;
-  color: #efefdf;
+  background-color: white;
+  color: #121010;
   margin-bottom: 2rem;
 }
 
@@ -53,5 +55,6 @@ h6 {
 
 #hic {
   width: 100%;
-  margin-bottom: 4rem;
+  margin: 4rem 0;
+  padding: 0 1rem;
 }
